@@ -1,0 +1,8 @@
+ bird.png 
+ #ignore a particular file
+
+ .png
+ #ignore all png files
+
+ .DS_Store 
+ #ignore mac files
